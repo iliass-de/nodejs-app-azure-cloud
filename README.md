@@ -1,4 +1,5 @@
 # nodejs-hello-world
-Hello World sample
+Hello World application Hosted in Microsoft Azure Cloud  
 
-See [Manage Google Compute Engine with Node.js](https://medium.com/@fhinkel/manage-google-compute-engine-with-node-js-eef8e7a111b4) on Medium.
+*Demo:* https://demo-iliass.azurewebsites.net
+
