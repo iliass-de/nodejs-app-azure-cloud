@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hello World sample app",
   "main": "index.js",
-   "engines": {
+  "engines": {
     "node": "10.10.0",
     "npm": ">=6.0.0"
   },
